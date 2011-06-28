@@ -1,4 +1,4 @@
-# Express Coffee
+# Express Coffee ejs
 
 This is a template nodejs web app
 
@@ -7,13 +7,11 @@ This is a template that can be used to create nodejs applications using
 
 * Express
 * CoffeeScript!
-* Coffeekup
 
 ## Requirements
 
 [NodeJs](http://nodejs.org)
 [Express](http://expressjs.com)
-[Coffeekup](http://coffeekup.org/)
 
 
 ## Install
@@ -21,9 +19,8 @@ This is a template that can be used to create nodejs applications using
 ```
 # Install nodejs and npm
 npm install express
-npm install coffeekup
 
-git clone http://github.com/twilson63/express-coffee.git [project-name]
+git clone http://github.com/lysol/express-coffee-ejs.git [project-name]
 cd [project-name]
 
 coffee app.coffee
@@ -36,20 +33,14 @@ node app.js
 
 ## Thanks to
 
-* [Jeremy Ashkenas](https://github.com/jashkenas) for creating coffee-script
-* [TJ Holowaychuk](https://github.com/visionmedia) for creating express
-* [Maurice Machado](https://github.com/mauricemach) for creating coffeekup
+* [Tom Wilson](http://github.com/twilson63) for express-coffee
 
 ## About
 
-Coffeekup Layout View borrowed from CoffeeKup Examples
+Generated ejs layout from express-coffee
 
 ## License
 
 See LICENSE
-
-## Also Check Out
-
-[meryl-coffee](http://github.com/twilson63/meryl-coffee)
 
 
