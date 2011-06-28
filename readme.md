@@ -1,13 +1,6 @@
 # Express Coffee ejs
 
-This is a template nodejs web app
-
-## Technologies
-This is a template that can be used to create nodejs applications using 
-
-* Express
-* CoffeeScript!
-* ejs
+This is a template for node.js web applications, using Express, CoffeeScript, and EJS.
 
 ## Requirements
 
@@ -26,11 +19,8 @@ git clone http://github.com/lysol/express-coffee-ejs.git [project-name]
 cd [project-name]
 
 coffee app.coffee
-
-or
-
+# or
 node app.js
-
 ```
 
 ## Thanks to
