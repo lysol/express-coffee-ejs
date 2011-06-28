@@ -7,17 +7,19 @@ This is a template that can be used to create nodejs applications using
 
 * Express
 * CoffeeScript!
+* ejs
 
 ## Requirements
 
 [NodeJs](http://nodejs.org)
 [Express](http://expressjs.com)
-
+[ejs](http://embeddedjs.com)
 
 ## Install
 
 ```
 # Install nodejs and npm
+npm install ejs
 npm install express
 
 git clone http://github.com/lysol/express-coffee-ejs.git [project-name]
